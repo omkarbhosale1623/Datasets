@@ -1,0 +1,13 @@
+Disease,Description,Antibiotic,Child and Child > 2 years Dose,Uses
+Otitis externa (acute),Ear canal infection; Topical treatment with caution.,,,
+Otitis media,Middle ear infection; Antibiotics considered in specific cases.,,,
+Pharyngitis,Throat inflammation; Antibiotics for Streptococcus pyogenes in certain cases.,,,
+Sinusitis - acute,Acute sinus infection; Antibiotics for severe cases.,,,
+,,Clioquinol + flumethasone (Locorten Vioform)*,,Treatment for Otitis externa (acute)
+,,Dexamethasone + framycetin + gramicidin (Sofradex)*,,Treatment for Otitis externa (acute)
+,,Amoxicillin,,First choice for Otitis media (child)
+,,Co-trimoxazole,,Alternative for Otitis media (child)
+,,Phenoxymethylpenicillin (Penicillin V),,First choice for Pharyngitis
+,,Amoxicillin (Pharyngitis),,Alternative for Pharyngitis
+,,Doxycycline,,Alternative for Sinusitis (acute)
+,,Amoxicillin clavulanate,,Alternative for Sinusitis (acute) if symptoms persist despite amoxicillin treatment
